@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Map;
 
 public class VersionInfo {
-    private static String VERSION = "0.1";// 当前版本
+    private static String VERSION = "0.2";// 当前版本
     private static String VERSIONURL = "https://api.github.com/repos/huiluczP/autoupdate/releases/latest";// 获取当前最新版本的地址
     private Map map;
 
